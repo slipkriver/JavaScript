@@ -5,7 +5,13 @@
 // console.log(arr);
 
 let videoJuegos = [ 'Mario 3', 'Megaman', 'Chrono Trigger' ];
+<<<<<<< HEAD
 console.log({ videoJuegos });
+=======
+const meses = ['Enero', 'Febrero', 'Marzo', 'Abril', 'Mayo', 'Junio', 'Julio']
+console.log({ videoJuegos });
+console.log(meses[2])
+>>>>>>> d3cb4de... Agregando nuevos archivos de los cursos de JavaScript para tenerlos como referencia
 
 console.log( videoJuegos[0] );
 
